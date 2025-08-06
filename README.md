@@ -1,17 +1,32 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Sduthika</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring IT professional from India, eager to contribute and grow in the tech industry</h3>
 <img align="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sduthika28&label=Profile%20views&color=0e75b6&style=flat" alt="sduthika28" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🤖 I’m proficient in **Machine Learning** and **Data Science**, with hands-on experience in data preprocessing, model building, evaluation, and visualization using **Python**, **scikit-learn**, **pandas**, and **matplotlib**. I enjoy working with real-world datasets to uncover insights and drive decisions.
 
-- 💬 Ask me about **java, React**
+- 💻 I have practical experience with:
+  - **Java** – for backend development and OOP-based applications.
+  - **React** – to build responsive, component-driven web interfaces.
+  - **Firebase** – for cloud-based storage, real-time database, and user auth.
+  - **Python** – for scripting, automation, and analytics.
 
-- 📫 How to reach me **msduthisadhu@gmail.com**
+- 🎯 I'm actively seeking opportunities in:
+  - **Software or Web Development** (Frontend / Backend / Full Stack)
+  - **Technical / IT Support Roles**
+  - **Data Analytics and Visualization**
 
-- ⚡ Fun fact **I think I am funny**
+- 💬 I’m passionate about solving real-world problems through clean and efficient code. Recent projects include:
+  - A **Voice-Based Inclusive Exam System** for visually challenged students
+  - A **Digital Clock App with Stopwatch & Lap Features**
+  - A **To-Do List App** using React
+
+- 📫 Connect with me at **msduthisadhu@gmail.com** for roles, collaborations, or tech talks!
+
+- ⚡ Fun fact: **I think I’m funny**, but I’m even better at debugging mysterious bugs 🕵️‍♀️. I believe in continuous learning and building things that matter.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
