@@ -1,6 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Sduthika</h1>
-<h3 align="center">Aspiring IT professional from India, eager to contribute and grow in the tech industry</h3>
+<h3 align="center">Aspiring IT professional from India, eager to contribute and grow in the tech industry | Portfolio: https://sduthika.netlify.app/
+</h3>
 <img align="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sduthika28&label=Profile%20views&color=0e75b6&style=flat" alt="sduthika28" /> </p>
