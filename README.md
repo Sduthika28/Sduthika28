@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sduthika28&label=Profile%20views&color=0e75b6&style=flat" alt="sduthika28" /> </p>
 
-- 🤖 I’m proficient in **Machine Learning** and **Data Science**, with hands-on experience in data preprocessing, model building, evaluation, and visualization using **Python**, **scikit-learn**, **pandas**, and **matplotlib**. I enjoy working with real-world datasets to uncover insights and drive decisions.
+- 🤖 I’m proficient in **Machine Learning** and **Data Science**, with hands-on experience in data preprocessing, model building, evaluation, and visualization using **SQL**, **Python**, **scikit-learn**, **pandas**, and **matplotlib**. I enjoy working with real-world datasets to uncover insights and drive decisions.
 
 - 💻 I have practical experience with:
   - **Java** – for backend development and OOP-based applications.
